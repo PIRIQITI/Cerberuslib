@@ -6,7 +6,7 @@ Library has many functions added to existing data structires and it also has sin
 It compiles as static and dynamic libraries ( see Makefile for more details ).  
 
 ## BUILD:
-Type: sudo make; sudo make install. ( these will automatically run unit tests and install the library )  
+Type: `sudo make; sudo make install`. ( these will automatically run unit tests and install the library )  
 You can run checks with "runchecks.sh" to look for dangerous C functions  
 If you have valgrind it will write memory check results in tests.log you can check that out too  
 
